@@ -3,6 +3,7 @@ np.delete = Deletes elements from an array based on index/position
 np.delete(array, index, axis=None)
 index = 0 -> means delete first row
 index = 1 -> means delete second row
+
 """
 
 import numpy as np
