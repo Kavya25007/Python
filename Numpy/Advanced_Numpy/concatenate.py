@@ -15,7 +15,6 @@ c = np.concatenate((a, b))
 print(c)
 
 
-
 a = np.array([[1, 2]])
 b = np.array([[3, 4]])
 
