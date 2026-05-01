@@ -1,0 +1,9 @@
+Vectorization = vectorization means performing operations on entire arrays at once instead of using loops.
+
+Benefits
+✔ Faster execution
+✔ Less code
+✔ No loops needed
+✔ Efficient memory use
+
+It is 100x times faster than python loops

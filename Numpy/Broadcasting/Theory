@@ -1,0 +1,8 @@
+"""Broadcasting = numpy way where we can perform diff operations on diff shapes of array
+
+How numpy broadcasting handles arrays of diff shapes?
+-Matching dimensions
+-Expanding single elements
+-Incompatible shapes
+
+"""
