@@ -1,0 +1,13 @@
+# Handling values usually means dealing with missing, invalid, or special values in arrays.
+
+Common values handled ->
+
+🔹 np.isnan() - detect missing values  
+    Function that checks whether elements are NaN (Not a Number) and returns True/False.
+
+🔹 np.nan - represents missing value  
+    A special value that represents missing or undefined numerical data.
+
+🔹 np.inf - represents and detect infinite value  
+    A special value that represents positive infinity (very large value beyond limit).  
+    (To detect it, use np.isinf())
