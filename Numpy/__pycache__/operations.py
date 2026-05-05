@@ -46,6 +46,7 @@ print("OR =", np.logical_or(a > 20, a < 15))
 
 # -----------------------------
 # 🔹 2D Arrays (Matrix Operations)
+
 A = np.array([[1, 2],
               [3, 4]])
 
