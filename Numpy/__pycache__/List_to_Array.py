@@ -1,6 +1,7 @@
 #Converting List to Array
 
 import numpy as np
+
 #With default values
 #np.zeros(coloums , rows)
 
