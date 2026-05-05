@@ -1,3 +1,4 @@
+
 a = int(input("Enter the marks = "))
 print("The marks is", a)
 if( a >= 90 ) and ( a <= 100):
